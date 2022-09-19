@@ -5,9 +5,9 @@ const prompt = require('prompt-sync')
     ({ sigint: true })
 
 
-const str = 'purple,orange,green'
+const str = 'red blue, red yellow, yellow blue'
 
-// let one = prompt(sting(""))
+let one = prompt(.(""))
 
 
 let firstColor = String
